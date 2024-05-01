@@ -28,4 +28,4 @@
 
 ### You can see edit survey pages with modern Typeform style
 
-### Skeleton pages are based on Mantis.
+### Skeleton pages are based on Mantis
